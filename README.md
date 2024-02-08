@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="hello.gif">
 
-<!--
-**Keskinksn/Keskinksn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Abdurrahman Keskin</h1>
+<h3 align="center">I am data curious, open to learning and like to be helpful.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keskinksn&label=Profile%20views&color=0e75b6&style=flat" alt="keskinksn" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Deep learning and LLMs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I regularly write articles on [https://medium.com/@abdurrahmankeskin](https://medium.com/@abdurrahmankeskin)
+
+- 📫 How to reach me **Abdurrahman.keskinn@outlook.com**
+
+<h3 align="left">Socials:</h3>
+<p align="left">
+<a href="https://twitter.com/keskinksn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keskinksn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdurrahman-keskin-7aa774175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurrahman-keskin-7aa774175/" height="30" width="40" /></a>
+<a href="https://medium.com/@abdurrahmankeskin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdurrahmankeskin" height="30" width="40" /></a>
+</p>
