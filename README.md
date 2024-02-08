@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hello.gif" width="200" />
+  <img src="hello.gif" width="500" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Abdurrahman Keskin</h1>
