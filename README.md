@@ -1,4 +1,6 @@
-<img align="center" src="hello.gif">
+<div align="center">
+  <img src="hello.gif" width="200" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Abdurrahman Keskin</h1>
 <h3 align="center">I am data curious, open to learning and like to be helpful.</h3>
